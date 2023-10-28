@@ -1,2 +1,2 @@
-# html-portfolio
+# html-capstone-project-jins
 My Resume
